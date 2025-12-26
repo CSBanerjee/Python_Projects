@@ -15,6 +15,3 @@ class Manager(Employee):
 
 m = Manager("Ravi",6000,1000)
 print(m.annual_salary())
-
-
-
